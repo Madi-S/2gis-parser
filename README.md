@@ -1,3 +1,3 @@
 # 2gis-parser
 
-2gis parser written in typescript
+2gis parser written in Go
